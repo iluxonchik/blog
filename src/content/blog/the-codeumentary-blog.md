@@ -13,7 +13,7 @@ description: Dive into the archive of The Codeumentary Blog. This reference guid
 # The Codeumentary Blog
 
 <div style="text-align:center; max-width:97%;">
-   <img src="/assets/blog/the-codeumentary-blog/cover.webp" alt="The Codeumentary Blog Cover Image" style="max-width:100%; max-height:auto;border:none;">
+   <img src="../../assets/blog/the-codeumentary-blog/cover.webp" alt="The Codeumentary Blog Cover Image" style="max-width:100%; max-height:auto;border:none;">
 </div>
 
 Welcome to my new blog at [>illya.sh/blog](https://illya.sh/blog), a fresh start and a continuation of a journey I began with [The Codeumentary Blog](https://illya.sh/the-codeumentary-blog/). For those unfamiliar, The Codeumentary Blog was my former platform where I shared insights and experiences in Software Engineering and Computer Security. This new space isn't just a successor; it's a refined and more focused venture, aiming to delve deeper into an optimized set of topics.
