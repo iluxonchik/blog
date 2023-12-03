@@ -1,6 +1,6 @@
 ---
 author: Illya Gerasymchuk
-pubDatetime: 2023-12-03T16:00:00Z
+pubDatetime: 2023-12-03T20:08:00Z
 title: Recursive zkSNARK Proof as a Private Input - What Is Visible To The Verifier?
 postSlug: zk-snarks-recursive-proof-private-intput-visibility
 featured: false
