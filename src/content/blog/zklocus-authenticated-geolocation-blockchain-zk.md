@@ -200,3 +200,10 @@ For more information about zkLocus, visit one of the following links:
 - [GitHub/zkLocus](https://github.com/iluxonchik/zklocus) - The GitHub repository of zkLocus. Here you can find the source code of zkLocus.
 - [x.com/zkLocus](https://twitter.com/zklocus) - The Twitter/X account of zkLocus. Here you can find the latest updates about zkLocus.
 - [contact@zklocus.dev](mailto:contact@zklocus.dev) - The email address of zkLocus. Here you can contact the zkLocus team.
+
+### Discuss
+
+Currently, the blog does not natively support comments. However, you can discuss
+this blog post on:
+
+- [Twitter/X - 🚀 Unveiling zkLocus 🚀](https://twitter.com/zkLocus/status/1730458637095604242)
