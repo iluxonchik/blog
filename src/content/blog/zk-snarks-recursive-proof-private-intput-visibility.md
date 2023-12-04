@@ -744,3 +744,10 @@ In this comprehensive post, we explored the intricacies and visibility aspects o
 - **Significance in zkLocus**: The recursive zkSNARKs architecture in zkLocus ensures verifiable data sources, efficient proof management, and the embedding of the source within each proof, enhancing data authenticity and privacy.
 
 To conclude, recursive zkSNARKs offer a powerful tool in the realm of Zero-Knowledge proofs, enabling complex validations while maintaining succinctness and privacy. Their implementation in applications like [zkLocus](https://zklocus.dev) signifies a leap in privacy-preserving technologies, particularly in sensitive areas like geolocation.
+
+### Discuss
+
+Currently, the blog does not natively support comments. However, you can discuss
+this blog post on:
+
+- [Twitter/X - 🧵 Exploring Recursive zkSNARK Proofs: A Deep Dive into Blockchain Privacy & Authenticity 🧵 ](https://x.com/zkLocus/status/1731448577241526708)
