@@ -136,7 +136,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Telegram",
-    href: "https://tm.me/illya_papi/",
+    href: "https://tm.me/illya_gerasymchuk/",
     linkTitle: `${SITE.title} on Telegram`,
     active: true,
   },
