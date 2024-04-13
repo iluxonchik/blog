@@ -487,5 +487,5 @@ For more information about zkLocus, you visit one of the following links:
 
 Currently, the blog does not natively support comments. In the meanwhile, you can discuss this blog post on:
 
-- [Twitter/X - 🚀 zkSNARKs & zkSTARKs: A Novel Verifiable Computation Model 🚀](https://twitter.com/zkLocus/status/1778909098110579082/)
+- [Twitter/X - 🚀 zkSNARKs & zkSTARKs: A Novel Verifiable Computation Model 🚀](https://twitter.com/illyaGera/status/1779199931007238569/)
 - Reach out to me on Telegram at [t.me/illya_gerasymchuk](https://t.me/illya_gerasymchuk), or e-mail me at [hello@illya.sh](mailto:hello@illya.sh)
