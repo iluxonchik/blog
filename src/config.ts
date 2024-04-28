@@ -23,13 +23,13 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Website",
     href: "https://illya.sh/",
-    linkTitle: `Main website`,
+    linkTitle: `Illya's Homepage`,
     active: true,
   },
   {
     name: "Github",
     href: "https://github.com/iluxonchik/",
-    linkTitle: ` ${SITE.title} on Github`,
+    linkTitle: `Illya on Github`,
     active: true,
   },
   {
@@ -41,7 +41,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Instagram",
     href: "https://github.com/illya.papi/",
-    linkTitle: `${SITE.title} on Instagram`,
+    linkTitle: `Illya on Instagram`,
     active: false,
   },
   {
@@ -53,13 +53,13 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Mail",
     href: "mailto:hello@illya.sh",
-    linkTitle: `Send an email to ${SITE.title}`,
+    linkTitle: `Send an email to Illya`,
     active: true,
   },
   {
     name: "Twitter",
-    href: "https://x.com/iluxonchik/",
-    linkTitle: `${SITE.title} on X`,
+    href: "https://x.com/illyaGera/",
+    linkTitle: `Illya on Twitter/X`,
     active: true,
   },
   {
