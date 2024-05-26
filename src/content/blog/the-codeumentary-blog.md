@@ -38,7 +38,7 @@ Below is the full list of the blog posts from The Codeumentary Blog, alongside a
 
 ### 👀 Demystifying The Regular Expression That Checks If A Number Is Prime
 
-- 👉 [Link to post](https://illya.sh/the-codeumentary-blog/regular-expression-that-checks-if-a-number-is-prime/)
+- 👉 [Link to post](https://illya.sh/the-codeumentary-blog/regular-expression-check-if-number-is-prime/)
 - 📚 **Summary**: This blog post offers an in-depth explanation of the regular expression `.?|(..+?)\1+` used to determine if a number is prime. Tailored for readers with varying levels of regex knowledge, the post breaks down the regex's functionality in an accessible manner. Not only has this article been incorporated into university syllabi, but it's also cited in multiple publications. Additionally, I present practical code examples across Java, Python, JavaScript, and Perl to demonstrate the application of this regex in different programming environments. This blog post provides a "zero-to-hero" explanation for anyone seeking to gain in-depth knowldge on advanced regular expression features, such as backreferrences.
 
 ### 🐍 Why You Should Learn Python
