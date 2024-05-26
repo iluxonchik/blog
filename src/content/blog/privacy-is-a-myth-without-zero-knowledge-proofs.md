@@ -202,5 +202,5 @@ Privacy is a fundamental human right, and this right extends to the digital real
 
 Currently, the blog does not natively support comments. In the meanwhile, you can discuss this blog post on:
 
-- [Twitter/X - 🚀 Privacy Is A Myth. Unless You're Using Zero-Knowledge Proofs 🚀](https://twitter.com/illyaGera/)
+- [Twitter/X - 🚀 Privacy Is A Myth. Unless You're Using Zero-Knowledge Proofs 🚀](https://x.com/illyaGera/status/1794700464380142005)
 - Reach out to me on Telegram at [t.me/illya_gerasymchuk](https://t.me/illya_gerasymchuk), or e-mail me at [hello@illya.sh](mailto:hello@illya.sh)
