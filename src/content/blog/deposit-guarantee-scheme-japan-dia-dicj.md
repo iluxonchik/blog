@@ -112,7 +112,15 @@ Is there something you have questions or disagree on? I'm curious to hear your f
 
 - Reach out to me on Telegram at [t.me/illya_gerasymchuk](https://t.me/illya_gerasymchuk), or e-mail me at [hello@illya.sh](mailto:hello@illya.sh)
 
-### References / Footnotes
+### Useful Resources
+
+In addition to the references, you will find the following resources useful while learning about Deposit Guarantee Schemes and the overall legal system of Japan and European Union:
+
+- [Japanese Law Translation](https://www.japaneselawtranslation.go.jp/) is a website operated by the Ministry of Justice of Japan that provides translations of Japanese laws and regulations.
+- [Deposit Insurance Corporation of Japan's Annual Reports](https://www.dic.go.jp/english/e_happyo/page_000619.html), where you can find yearly reports of DICJ's operating activities.
+- [EUR-Lex European Union Law](https://eur-lex.europa.eu/homepage.html?locale=en), where you can find the EU law, regulations and other public documents.
+
+#### References / Footnotes
 
 [^1]: Deposit Insurance Act (預金保険法) [DIA], Act No. 34 of 1971 [🔗](https://www.japaneselawtranslation.go.jp/en/laws/view/4539/en)
 [^2]: DIA, Act No. 34 of 1971, art. 1
@@ -145,7 +153,3 @@ Is there something you have questions or disagree on? I'm curious to hear your f
 [^29]: (2022). (rep.). DICJ ANNUAL REPORT 2022/2023
 [^30]: Ibid
 [^31]: Nakaso, H. (2001a, October 2). The financial crisis in Japan during the 1990s: How the Bank of Japan responded and the lessons learnt. The Bank for International Settlements
-
-#### Useful Resources
-
-Below are some useful resources that I found while researching this topic.
