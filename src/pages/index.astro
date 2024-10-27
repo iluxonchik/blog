@@ -23,10 +23,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1 class="mr-2">👋hello</h1> 
+      <h1>
+        <span class="wave-emoji cursor-default">👋</span>
+        <span class="mr-2">hello</span>
+      </h1> 
       <a
         target="_blank"
-        href="/rss.xml"
+        href="/blog/rss.xml"
         class="rss-link"
         aria-label="rss feed"
         title="RSS Feed"
@@ -158,6 +161,27 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       }
       .all-posts-btn-wrapper {
         @apply my-8 text-center;
+      }
+
+      .wave-emoji {
+        display: inline-block;
+        transform-origin: 70% 70%;
+        animation: wave 2.5s ease-in-out;
+      }
+
+      .wave-emoji:hover {
+        animation: wave 2.5s ease-in-out infinite;
+      }
+
+      @keyframes wave {
+        0% { transform: rotate(0deg); }
+        10% { transform: rotate(14deg); }
+        20% { transform: rotate(-8deg); }
+        30% { transform: rotate(14deg); }
+        40% { transform: rotate(-4deg); }
+        50% { transform: rotate(10deg); }
+        60% { transform: rotate(0deg); }
+        100% { transform: rotate(0deg); }
       }
     </style>
   </main>
