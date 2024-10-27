@@ -3,7 +3,7 @@ author: Illya Gerasymchuk
 pubDatetime: 2023-12-01T06:01:00Z
 title: "zkLocus: Authenticated Private Geolocation Off & On-Chain"
 postSlug: zklocus-authenticated-geolocation-blockchain-zk
-featured: true
+featured: false
 draft: false
 tags:
   - zkLocus

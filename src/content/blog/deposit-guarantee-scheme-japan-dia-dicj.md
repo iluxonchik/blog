@@ -36,7 +36,7 @@ The core responsibilities of the DICJ can be grouped into 3 main areas:
 3. **Financial System Stability Measures**:
    The powers and responsibilities of the DICJ encompass the overall stability of the financial system. These include acting as a resolution authority for banks in crisis, conducting special monitoring of financial institutions, and mediating other troubled events in financial markets[^9].
 
-   The DICJ's deposit insurance coverage extends beyond banks, with Article 2(1) detailing the following list of financial institutions bound by the DICJ, which also includes long-term credit banks and credit cooperatives, among others.
+The DICJ's deposit insurance coverage extends beyond banks, with Article 2(1) detailing the following list of financial institutions bound by the DICJ, which also includes long-term credit banks and credit cooperatives, among others.
 
 ## DIA Act No. 34 of 1971 vs DGS Directive 2014/49/EU
 
@@ -87,7 +87,7 @@ It's important to note that these limits apply per depositor per financial insti
 ## DICJ Intervention in Practice
 
 <div style="text-align:center; max-width:97%;">
-   <img src="/blog/assets/blog/deposit-insurance-guarantee-scheme-japan-dia-dicj/incubator-bank-of-japan-dicj-resolution.png" alt="A detailed timeline diagram showing the resolution process of the Incubator Bank of Japan from September 10, 2010 to May 2, 2017. The timeline is presented with pink arrows connecting key events, including the initial failure notification, DICJ's appointment as financial administrator, deposit reimbursement process, and final liquidation. Icons illustrate different stages: person icons for administrative actions, building icons for institutional transfers, and coin icons for financial transactions. The diagram demonstrates the systematic approach to bank resolution under DICJ's limited coverage scheme." style="max-width:100%; max-height:auto;border:none;">
+   <img src="/blog/assets/blog/deposit-insurance-guarantee-scheme-japan-dia-dicj/incubator-bank-of-japan-dicj-resolution.png" alt="A detailed timeline diagram showing the resolution process of the Incubator Bank of Japan from September 10, 2010 to May 2, 2017. The timeline is presented with pink arrows connecting key events, including the initial failure notification, DICJ's appointment as financial administrator, deposit reimbursement process, and final liquidation. Icons illustrate different stages: person icons for administrative actions, building icons for institutional transfers, and coin icons for financial transactions. The diagram demonstrates the systematic approach to bank resolution under DICJ's limited coverage scheme" style="max-width:100%; max-height:auto;border:none;">
 </div>
 
 DICJ has a long history of interventions. As of March 2023, The DICJ has implemented failure resolution of more than 180 financial institutions[^27]. This can be interpreted as a high number of historical interventions.
@@ -104,12 +104,15 @@ The failure of the Incubator Bank of Japan in 2010, represents the first resolut
 
 The Deposit Insurance Corporation of Japan, established by the DIA of 1971, plays a central role in Japan's financial framework. As a public entity under governmental supervision, the DICJ's responsibilities are not limited to deposit protection, but also encompass financial institution resolution and crisis management.
 
-The risk-based premium contribution system, the issuance of bonds and borrowing of funds are the main tools employed by the DICJ to insure customer deposits, and stabilize the financial system. The effectiveness of the measures, specially long term is subject to discussion, given that debt is one of the main mechanisms employed by the DICJ, including during the 1990's banking crisis[^31]. Another risk is Japan's dependence on the United States Dollar, as Japan is one of the largest holders of US Treasury Securities. This means that an underperforming dollar can reduce the economy's assets, and increase the cost of existing liabilities, leading to a situation akin to the one experienced in the 1990's. If this problem is once again addressed with public debt, it will likely lead to further devaluation of the Yen currency, manifesting in a reduction of purchasing power (inflation) and economic downturn.
+The risk-based premium contribution system, the issuance of bonds and borrowing of funds are the main tools employed by the DICJ to insure customer deposits, and stabilize the financial system. The effectiveness of the measures, specially long term is subject to discussion, given that debt is one of the main mechanisms employed by the DICJ, including during the 1990's banking crisis[^31].
+
+Another risk is Japan's dependence on the United States Dollar, as Japan is one of the largest holders of US Treasury Securities. This means that an underperforming dollar can reduce the economy's assets, and increase the cost of existing liabilities, leading to a situation akin to the one experienced in the 1990's. If this problem is once again addressed with public debt, it will likely lead to further devaluation of the Yen currency, manifesting in a reduction of purchasing power (inflation) and economic downturn.
 
 ### Discuss 🗣️
 
 Is there something you have questions or disagree on? I'm curious to hear your feedback. Share you thoughts privately, or join the discussion at:
 
+- [Twitter/X - 🚀 Deposit Guarantee Scheme of Japan: DIA & DICJ 🚀](https://x.com/illyagera/status/1850565842242613656)
 - Reach out to me on Telegram at [t.me/illya_gerasymchuk](https://t.me/illya_gerasymchuk), or e-mail me at [hello@illya.sh](mailto:hello@illya.sh)
 
 ### Useful Resources
