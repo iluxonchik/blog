@@ -6,6 +6,7 @@ import Tag from "@components/Tag.astro";
 import Datetime from "@components/Datetime";
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
+import AudioPlayer from "@components/AudioPlayer.astro";
 
 export interface Props {
   post: CollectionEntry<"blog">;
@@ -46,8 +47,14 @@ const ogUrl = new URL(
     </button>
   </div>
   <main id="main-content">
-    <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
+    <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>  
     <Datetime datetime={pubDatetime} size="lg" className="my-2" />
+    {post.data.audioUrl && (
+      <AudioPlayer 
+        audioUrl={post.data.audioUrl}
+        title={title}
+      />
+    )}
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>

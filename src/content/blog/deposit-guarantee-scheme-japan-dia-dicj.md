@@ -3,6 +3,7 @@ author: Illya Gerasymchuk
 pubDatetime: 2024-10-27T10:10:10Z
 title: "Deposit Guarantee Scheme of Japan: DIA & DICJ"
 postSlug: deposit-guarantee-scheme-japan-dia-dicj
+audioUrl: /blog/assets/blog/deposit-insurance-guarantee-scheme-japan-dia-dicj/Deposit_Guarantee_Scheme_of_Japan_DIA_DICJ_podcast.wav
 featured: false
 draft: false
 tags:

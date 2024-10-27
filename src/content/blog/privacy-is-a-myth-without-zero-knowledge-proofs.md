@@ -12,7 +12,7 @@ description: "Privacy is a fundamental human right, yet digital privacy is a myt
 ---
 
 <div style="text-align:center; max-width:97%;">
-   <img src="../../assets/blog/privacy-with-zero-knowlege-proofs-zklocus/privacy-with-zero-knowlege-cover.jpeg" alt="Cover image showcasing a serene, retro-futuristic scene representing the theme of Zero-Knowledge Proofs enabling true digital privacy. The image highlights the transition from the myth of digital privacy to the reality achieved through ZKPs." style="max-width:100%; max-height:auto;border:none;">
+   <img src="/blog/assets/blog/privacy-with-zero-knowlege-proofs-zklocus/privacy-with-zero-knowlege-cover.jpeg" alt="Cover image showcasing a serene, retro-futuristic scene representing the theme of Zero-Knowledge Proofs enabling true digital privacy. The image highlights the transition from the myth of digital privacy to the reality achieved through ZKPs." style="max-width:100%; max-height:auto;border:none;">
 </div>
 
 Privacy is fundamental human right. Digital privacy is fundamentally a myth. While it's possible to store data privately for personal use, that privacy is foregone the moment that data is shared with someone else. This is true even if encryption is employed. The problem is not in **how** the data is stored & shared, but rather in **what** data is stored & shared.
@@ -132,7 +132,7 @@ The shared content can be implemented using a similar approach, with the added l
 ### Privacy-Preserving E-Commerce Platform With zkLocus
 
 <div style="text-align:center; max-width:97%;">
-   <img src="../../assets/blog/privacy-with-zero-knowlege-proofs-zklocus/zk-private-ecommerce-zklocus.jpeg" alt="Illustration of a privacy-preserving e-commerce platform using zkLocus and Zero-Knowledge Proofs. The image shows a vibrant marketplace where users' search queries and shipping information remain private, ensuring secure online shopping." style="max-width:100%; max-height:auto;border:none;">
+   <img src="/blog/assets/blog/privacy-with-zero-knowlege-proofs-zklocus/zk-private-ecommerce-zklocus.jpeg" alt="Illustration of a privacy-preserving e-commerce platform using zkLocus and Zero-Knowledge Proofs. The image shows a vibrant marketplace where users' search queries and shipping information remain private, ensuring secure online shopping." style="max-width:100%; max-height:auto;border:none;">
 </div>
 
 Online shopping privacy concerns are a combination of privacy concerns of search engines and social networks, and they can be addressed by using similar approaches to the ones described above. There are two main data points that are need to be kept private:
@@ -163,7 +163,7 @@ The entire solution as described here can be natively implemented on the [Mina p
 ### 24/7 Privacy-Preserving Global Surveillance With ZK
 
 <div style="text-align:center; max-width:97%;">
-   <img src="../../assets/blog/privacy-with-zero-knowlege-proofs-zklocus/zk-private-global-surveillance.jpeg" alt="A vibrant, retro-futuristic cityscape under surveillance with drones and cameras, representing a privacy-preserving global surveillance system. The scene uses bright colors and clear details to highlight how Zero-Knowledge Proofs can maintain individual privacy even in a constantly monitored environment." style="max-width:100%; max-height:auto;border:none;">
+   <img src="/blog/assets/blog/privacy-with-zero-knowlege-proofs-zklocus/zk-private-global-surveillance.jpeg" alt="A vibrant, retro-futuristic cityscape under surveillance with drones and cameras, representing a privacy-preserving global surveillance system. The scene uses bright colors and clear details to highlight how Zero-Knowledge Proofs can maintain individual privacy even in a constantly monitored environment." style="max-width:100%; max-height:auto;border:none;">
 </div>
 
 Now that we have explored on how we can integrate privacy into ubiquitous services like search engines, social networks and e-commerce platforms, let's think bigger and explore how we can have global 24/7 hour video surveillance without compromising the privacy of individuals and groups. The idea of privacy in a state of constant survaillance may seem like an oxyomoron, and in most cases it indeed is. Unless of course... you've guessed it - we employ Zero-Knowledge Proofs.
@@ -187,7 +187,7 @@ In this case, we are not leveraging the data abstraction feature of ZKP, but rat
 ## Conclusion
 
 <div style="text-align:center; max-width:97%;">
-   <img src="../../assets/blog/privacy-with-zero-knowlege-proofs-zklocus/privacy-with-zero-knowledge-proofs-conclusion.jpeg" alt="A serene, retro-futuristic sunset scene depicting a calm beach with neon lights, symbolizing the conclusion of the article. The image conveys a sense of relaxation and privacy, emphasizing the overall theme of achieving digital privacy through Zero-Knowledge Proofs." style="max-width:100%; max-height:auto;border:none;">
+   <img src="/blog/assets/blog/privacy-with-zero-knowlege-proofs-zklocus/privacy-with-zero-knowledge-proofs-conclusion.jpeg" alt="A serene, retro-futuristic sunset scene depicting a calm beach with neon lights, symbolizing the conclusion of the article. The image conveys a sense of relaxation and privacy, emphasizing the overall theme of achieving digital privacy through Zero-Knowledge Proofs." style="max-width:100%; max-height:auto;border:none;">
 </div>
 
 Throughout this article we have explored how digital privacy is unfeasable, unless we rely on [verifiable computation constructs like Zero-Knowlege Proofs](https://illya.sh/blog/posts/zksnark-zkstark-verifiable-computation-model-blockchain/). Achieving privacy in the digital ralm, means shifring paradigm from protecting sensitive data that's already been shared to sharing data in an inherently private manner. The verifiable computation model of ZKPs allows us to do exacly that, by turning data into computation and abstracting it in a manner that inherently preserves its privacy.
