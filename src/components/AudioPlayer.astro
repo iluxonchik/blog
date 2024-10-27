@@ -1,0 +1,113 @@
+---
+export interface Props {
+  audioUrl: string;
+  title: string;
+}
+
+const { audioUrl, title } = Astro.props;
+---
+<div class="audio-player-container">
+  <div class="audio-player-wrapper rounded-lg bg-skin-card p-3 shadow-md transition-transform hover:shadow-lg">
+    {/* Main Container - Now using grid for better space utilization */}
+    <div class="grid grid-cols-1 gap-2 sm:grid-cols-[auto,1fr,auto] sm:items-center sm:gap-4">
+      {/* Icon and Title - Now inline */}
+      <div class="flex items-center space-x-2">
+        <span class="inline-flex h-7 w-7 items-center justify-center rounded-full bg-skin-accent/10">
+          <span class="text-lg">🎧</span>
+        </span>
+        <span class="text-sm font-medium text-skin-base">Audio Version</span>
+      </div>
+
+      {/* Audio Player - Now in the middle */}
+      <div class="relative col-span-1 row-start-2 sm:col-auto sm:row-start-auto">
+        <audio 
+          controls 
+          class="audio-player h-8 w-full" 
+          preload="metadata"
+        >
+          <source src={audioUrl} type="audio/wav" />
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+
+      {/* Controls Container - Now more compact */}
+      <div class="flex items-center justify-end space-x-2 sm:justify-start">
+        <select 
+          id="playback-speed" 
+          class="h-7 rounded-md border border-skin-accent/20 bg-skin-fill px-2 py-0 text-xs font-medium text-skin-base transition-colors hover:border-skin-accent focus:border-skin-accent focus:outline-none focus:ring-1 focus:ring-skin-accent/20"
+          title="Playback Speed"
+        >
+          <option value="1">1×</option>
+          <option value="1.25">1.25×</option>
+          <option value="1.5">1.5×</option>
+          <option value="1.75">1.75×</option>
+          <option value="2">2×</option>
+        </select>
+
+        <a 
+          href={audioUrl} 
+          download
+          class="inline-flex h-7 items-center space-x-1 rounded-md bg-skin-accent px-2 text-xs font-medium text-white transition-colors hover:bg-skin-accent/90"
+          title="Download audio version"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function setupAudioPlayer() {
+    const speedSelect = document.getElementById("playback-speed") as HTMLSelectElement;
+    const audioPlayer = document.querySelector(".audio-player") as HTMLAudioElement;
+
+    if (speedSelect && audioPlayer) {
+      speedSelect.addEventListener("change", (e) => {
+        const target = e.target as HTMLSelectElement;
+        audioPlayer.playbackRate = parseFloat(target.value);
+      });
+    }
+  }
+
+  // Setup on initial load
+  setupAudioPlayer();
+
+  // Setup after view transitions
+  document.addEventListener("astro:after-swap", setupAudioPlayer);
+</script>
+
+<style>
+  .audio-player-container {
+    @apply my-4 max-w-3xl mx-auto;
+  }
+
+  .audio-player::-webkit-media-controls-panel {
+    @apply bg-skin-card;
+  }
+
+  .audio-player::-webkit-media-controls-current-time-display,
+  .audio-player::-webkit-media-controls-time-remaining-display {
+    @apply text-skin-base text-xs;
+  }
+
+  /* Compact audio player styling */
+  .audio-player::-webkit-media-controls-enclosure {
+    @apply max-h-8;
+  }
+
+  .audio-player::-webkit-media-controls-play-button,
+  .audio-player::-webkit-media-controls-mute-button {
+    @apply hover:opacity-80 transition-opacity;
+  }
+
+  .audio-player::-webkit-media-controls-timeline {
+    @apply hover:opacity-80 transition-opacity;
+  }
+
+  .audio-player::-webkit-media-controls-volume-slider {
+    @apply hover:opacity-80 transition-opacity;
+  }
+</style>
