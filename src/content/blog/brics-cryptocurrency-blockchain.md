@@ -1,7 +1,7 @@
 ---
 author: Illya Gerasymchuk
 pubDatetime: 2024-04-28T17:07:05Z
-title: "BRICS Digital Currency: Cryptocurrency On A Public Blockchain"
+title: "BRICS Digital Currency: Public Blockchain Cryptocurrency"
 postSlug: brics-cryptocurrency-blockchain
 featured: false
 draft: false
