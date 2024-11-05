@@ -5,6 +5,7 @@ title: "BRICS Digital Currency: Cryptocurrency On A Public Blockchain"
 postSlug: brics-cryptocurrency-blockchain
 featured: false
 draft: false
+audioUrl: /blog/assets/blog/brics-cryptocurrency-blockchain/BRICS_Digital_Currency_Cryptocurrency_On_A_Public_Blockchain_Illya_Gerasymchuk_Podcast.wav
 tags:
   - finance
   - zero-knowledge
